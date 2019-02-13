@@ -11,5 +11,5 @@ Links marked with a * are links to external websites.
 * [Installation](installation/installation.md)
 * [First Steps]
 * [Software]
-* [System]
+* [System](system/index.md)
 * [Network](network/index.md)
