@@ -3,6 +3,7 @@
 This is meant as a small community driven collection of tips and tricks for SailfishOS
 The site is using Github and Markdown to keep it super simple. 
 Links marked with a * are links to external websites.
+This stuff is meant to be moved to the community sfos.org docs as soon as possible
 
 ## Categories
 
